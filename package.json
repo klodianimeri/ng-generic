@@ -41,6 +41,15 @@
     "protractor": "~5.1.0",
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
-    "typescript": "~2.1.0"
+    "typescript": "~2.1.0",
+    "autoprefixer": "6.3.6",
+    "gulp": "3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-minify": "^0.0.5",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "2.3.1",
+    "gulp-sourcemaps": "1.6.0"
   }
 }
